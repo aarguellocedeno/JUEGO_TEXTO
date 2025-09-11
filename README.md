@@ -1,6 +1,6 @@
 ## ORFANATO SINTERAC
 #### Members: Ana Gabriela Argüello Cedeño y Laura Isabel Olivero Alvarez
-
+##### video : https://drive.google.com/file/d/1y9UCs-saSQifg2EYGYQmC0opa9Tflv-G/view?usp=sharing
 
 In this project, we use OpenAL to add music and sound effects that enhance immersion. The game is developed in Python as a text-based adventure and uses object-oriented programming (OOP) to model the main components: Girl, Madam, Game, and Orphanage.
 
