@@ -1,0 +1,11 @@
+{
+  "parents": {
+    "mom": "Hija, si nunca regreso... debes descubrir la verdad y desenterrar todos los secretos.\nTe dejo esta mochila en la cual usa una tecnologia que te permitira guardar cosas infinitamente,\nAhi dentro hay una caja, pero abrela solo si es necesario",
+    "dad": "Mi chica guerrera, todo estara bien, volveremos en una semana. Recuerda, si tienes problemas, piensa en tus padres 9735 veces... Te quiero."
+  },
+  "madam": {
+    "1": "No te abandonaron? JAJAJA ",
+    "2": "A tu habitacion, ahora. Debes acomodarte.",
+    "default": ""
+  }
+}

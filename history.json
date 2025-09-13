@@ -1,0 +1,93 @@
+{
+  "intro": [
+    {"sound": "init"},
+    {"say": "--- HISTORIA INTERACTIVA: EL ORFANATO SINTERAC ---"},
+    {"say": "Tenias una familia muy unida, se divertian casi todo el tiempo, y les gustaba escuchar musica y leer libros de terror\npero en un momento tus padres te dijeron que se debian ir a un viaje de trabajo,\naunque no mencionaron el donde....."},
+    {"say": "Antes de dejarte, tus padres hablan..."}
+  ],
+  "despues_de_papas": [
+    {"say": "Tus padres nunca regresaron..."},
+    {"sound": "wind"},
+    {"sound": "thunder"},
+    {"say": "Tiempo despues de la desaparicion de tus padres, eres llevada a un Orfanato\n"}
+  ],
+  "orphanage_art": [
+    {"say": "\nEL ORFANATO SINTERAC"},
+    {"say": "        |>>>     |>>>     |>>>        "},
+    {"say": "        |        |        |           "},
+    {"say": "     ___|___  ___|___  ___|___        "},
+    {"say": "    |       ||       ||       |       "},
+    {"say": "    |       ||       ||       |       "},
+    {"say": "    |   []  ||   []  ||  []   |       "},
+    {"say": "    |       ||       ||       |       "},
+    {"say": "    |_______||_______||_______|       "},
+    {"say": "        |               |             "},
+    {"say": "        |      ___      |             "},
+    {"say": "        |     |   |     |             "},
+    {"say": "        |     |   |     |             "},
+    {"say": "        |_____|___|_____|             "}
+  ],
+  "madam_intro": [
+    {"say": "\nAparece Madam Rolinda y te dice desde la escalera.\nOtra bestia abandonada...\n\n"},
+    {"say": "   /////////////\\\\  "},
+    {"say": "  (((((((((((((( \\\\ "},
+    {"say": "  ))) ~~      ~~  ((( "},
+    {"say": "  ((( (*)     (*) ))) "},
+    {"say": "  )))     <       ((( "},
+    {"say": "  (((   _______   ))) "},
+    {"say": "  ))\\ _________ //(( "},
+    {"say": "\nOpciones:\n1) No me abandonaron\n2) Tirar las cosas con enojo"}
+  ],
+  "noche": [
+    {"say": "\nLlegas a tu habitacion... pero algo no esta bien..."},
+    {"sound": "terrifier"},
+    {"say": "[Un gigante te cubre la cara con un trapo blanco]"}
+  ],
+  "manana": [
+    {"say": "\n------ A la mañana siguiente ------\n"},
+    {"say": "Suena Alarma de orfanato"},
+    {"sound": "morning"}
+  ],
+  "ending_intro": [
+    {"say": "--- EL DESCUBRIMIENTO ---"},
+    {"sound": "unpack"},
+    {"say": "Con las pistas que encontraste, empiezas a unir las piezas..."}
+  ],
+  "ending_verdad": [
+    {"sound": "box"},
+    {"say": "El numero 9735 abre la caja que dejo tu madre en la mochila. Dentro encuentras un diario polvoriento."},
+    {"say": "Tus manos tiemblan mientras lo lees..."},
+    {"sound": "true"},
+    {"say": "El diario revela la verdad: Madam Rolinda trabajo como asistente de tus padres...\n"},
+    {"say": "Ella los traiciono, entregandolos a sus enemigos y asegurando su muerte."},
+    {"say": "Ahora lo sabes... el orfanato es una trampa, y Rolinda es la asesina."},
+    {"sound": "scream"},
+    {"say": "[Un grito lejano resuena por los pasillos]\n"}
+  ],
+  "ending_pregunta": [
+    {"say": "Que haras ahora?"},
+    {"say": "1) Enfrentar a Madam Rolinda  2) Intentar huir del orfanato"}
+  ],
+  "ending_fight": [
+    {"sound": "box"},
+    {"say": "Con la llave oxidada del atico, abres un viejo cofre y encuentras un cuchillo."},
+    {"say": "Esperas a Rolinda en la oscuridad... y cuando aparece, atacas con furia."},
+    {"sound": "kill_madam"},
+    {"say": "[Gritos llenan el orfanato]"},
+    {"sound": "win"},
+    {"say": "La nina ha vencido. Rolinda yace muerta. El secreto de sus padres ha sido vengado."},
+    {"say": "GANASTE EL JUEGO"},
+    {"say": "--- FINAL: LA NINA SE CONVIERTE EN SU PROPIA GUERRERA ---"}
+  ],
+  "ending_escape": [
+    {"sound": "run"},
+    {"sound": "kill_girl"},
+    {"say": "Corres hacia la salida, pero las puertas se cierran con violencia."},
+    {"say": "Rolinda aparece detras de ti, riendo de forma escalofriante."},
+    {"say": "No hay escape..."},
+    {"sound": "lose"},
+    {"say": "[Un grito final resuena en el orfanato]"},
+    {"say": "PERDISTE EL JUEGO"},
+    {"say": "--- FINAL: MADAM ROLINDA ACABO CON LA NINA ---"}
+  ]
+}
