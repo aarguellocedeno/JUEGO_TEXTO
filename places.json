@@ -1,0 +1,132 @@
+{
+  "gardenStart": [
+    {"sound": "walk"},
+    {"say": "\nComienzas a caminar"},
+    {"sound": "nature"},
+    {"say": "Mientras caminas logras ver diferentes pajaros y arboles, pareciera que ya no estuvieras en ese espantoso lugar"}
+  ],
+
+  "gardenRightIntro": [
+    {"sound": "nature_right"},
+    {"say": "Ingresas por el lado derecho"},
+    {"say": "Mientras caminabas por ese sendero te encuentras con una fuente antigua y mohosa"},
+    {"sound": "discover"},
+    {"say": "Aunque el agua estaba muy turbia lograste ver algo...\nUNA BOTELLA?!"},
+    {"say": "La botella genera un sonido especial, como si quisiera que alguien la tomara"},
+    {"say": "Al sacarla ves un aparato tecnologico dentro de ella\nLuce intacto..."},
+    {"say": "\nEl aparato te permite ver cosas que antes no podias, ahora observas palabras en los arboles, frases en el agua y logras detectar senderos secretos "}
+  ],
+
+  "gardenRightContinuar": [
+    {"sound": "to_realize"},
+    {"say": "Te das cuenta que la tecnologia que tienes en tus manos, era usada para misiones secretas de espias\ny poder darse mensajes sin que alguien se diera cuenta"},
+    {"say": "Decides mantener en secreto ese aparato hasta que deba ser util"},
+    {"sound": "get"},
+    {"say": "\nAparato Guardado en tu mochila\n"}
+  ],
+
+  "gardenRightSave": [
+    {"sound": "get"},
+    {"say": "\nAparato Guardado en tu mochila\n"}
+  ],
+
+  "gardenRightEnd": [
+    {"say": "Sales del sendero derecho"}
+  ],
+
+  "gardenLeftIntro": [
+    {"sound": "nature_left"},
+    {"say": "Ingresas por el lado izquierdo"},
+    {"say": "Mientras caminabas por ese sendero te encuentras con un gran rosal, pero no es un rosal cualquiera,\nsus rosas son de color negro"},
+    {"say": "Al prestar atencion, logras ver que hay 3 flores con 3 llaves distintas"},
+    {"say": "\nLlave A: Brilla como el oro, pero pesa como el plomo.\nLlave B: Es opaca y fria, pero fue forjada en fuego.\nLlave C: Parece fragil, pero ha abierto mas puertas de las que puedes contar. "},
+    {"say": "Un holograma aparece ante ti,era un señor algo viejo que te da una pista"},
+    {"say": "La llave correcta no es la mas brillante, ni la mas reciente. La verdad esta en la experiencia, no en la apariencia."}
+  ],
+
+  "gardenEnd": [
+    {"say": "Terminaste de explorar el jardin,decides salir\n"},
+    {"sound": "walk2"}
+  ],
+
+  "atticIntro": [
+    {"sound": "stairs"},
+    {"say": "\nSubes las escaleras hacia el atico..."},
+    {"sound": "cold"},
+    {"say": "[El aire cada vez se hace mas frio]"},
+    {"sound": "atic"},
+    {"say": "Al subir, ves un desastre total, desde hace años nadie ha entrado aqui, o eso parece\n"},
+    {"sound": "to_realize"},
+    {"say": "ESPERA... ves algo raro en el suelo\nte das cuenta de que aunque todo esta polvoriento, hay 3 zonas que estan sin polvo, como si alguien hubiese estado ahi\n"},
+    {"say": "Decides investigar esas zonas"}
+  ],
+
+  "atticLeft": [
+    {"sound": "atic_left"},
+    {"say": "Caminas por la zona izquierda"},
+    {"say": "De entre todas la cosas que estan de ese lado, como libros, ropa vieja y cajas, ves una terrorifica porcelana que te observa fijamente"},
+    {"say": "Al  acercarte, ves que la porcelana tiene un collar con una insignia que parece ser la del orfanato Sinterac"}
+  ],
+
+  "atticCenterIntro": [
+    {"sound": "atic"},
+    {"say": "Caminas por la zona del centro"},
+    {"say": "De entre todas la cosas que estan de ese lado, ves un libro que llama tu atencion"},
+    {"say": "Al  acercarte, ves que el libro tiene una portada con un dibujo de un arbol y una casa"},
+    {"say": "\nAl abrirlo, ves que es un libro tipo diario, no logras entender las primeras paginas ya que estan desgastadas, pero\n mientras continuas leyendo, te percadas de una nota que esta intacta"},
+    {"say": "NO CONFIES EN MADAM ROLINDA, ELLA NO ES QUIEN DICE SER"},
+    {"say": "Bajo ese mensaje hay una firma, parece ser ¿tuya ?"},
+    {"say": "tambien ves que bajo eso hay un dibujo muy detallado de una puerta en donde la llave es un amuleto\n"}
+  ],
+
+  "atticRightIntro": [
+    {"sound": "atic_right"},
+    {"say": "Caminas por la zona derecha"},
+    {"say": "De entre todas la cosas que estan de ese lado, ves una caja fuerte antigua"},
+    {"say": "Al  acercarte, ves que la caja tiene un grabado con un dibujo de un arbol y una casa, igual que el libro del centro"},
+    {"sound": "bloq"},
+    {"say": "Intentas abrir la caja fuerte, pero esta cerrada con un codigo numerico de 4 digitos"}
+  ],
+
+  "atticRight": [
+    {"sound": "box"},
+    {"say": "La caja se abre..."},
+    {"say": "Dentro encuentras una fotografia"},
+    {"say": "La fotografia es del atico, pero algo no cuadra, ya que en la foto hay una puerta antigua que ahora no puedes ver"},
+    {"say": "Buscas la puerta en el atico, pero no la encuentras\nHasta que ves una pared que parece diferente\ny en ella hay un hueco con la forma de un amuleto"},
+    {"say": "ESA SI ES LA PUERTA DEL DIBUJO"}
+  ],
+
+  "atticSecretDoor": [
+    {"sound": "door2"},
+    {"say": "Usas el collar para abrir la puerta\nLa puerta se abre con un chirrido..."},
+    {"say": "Al entrar, no ves solo un cuarto...\n"},
+    {"say": "[Descubres lo que esta pasando en ese horrible lugar]"},
+    {"sound": "to_realize"},
+    {"say": "ES UNA PRISION !"},
+    {"say": "Ves a varias personas encerradas, algunas son apenas unos chicos, pero otras ya son adultos\nLas personas no estan bien...\nEstan heridas como si hubiesen sido torturadas\n"},
+    {"sound": "run2"},
+    {"say": "Temblando decides salir de ese lugar\n"}
+  ],
+
+  "basementIntro": [
+    {"say": "\nBajas al Oscuro Sotano\n"},
+    {"say": "Para iluminarlo tienes dos opciones:\n1) Prender Vela\n2) Prender Linterna"}
+  ],
+
+  "basementOpen": [
+    {"sound": "box"},
+    {"say": "\n[El cofre se abre...]"},
+    {"sound": "paper"},
+    {"say": "Encuentras muchos papeles viejos y amarillentos..."},
+    {"say": "\nDos de ellos llaman tu atencion:"},
+    {"say": "\n1. Un papel doblado cuidadosamente que dice:"},
+    {"say": "'El numero secreto que nunca debes olvidar: 9735'"},
+    {"say": "[Este debe ser el numero que papá menciono...]"},
+    {"say": "\n2. Una fotografia..."},
+    {"sound": "sad"},
+    {"say": "[Tus manos tiemblan al verla]"},
+    {"say": "En la imagen estan tus padres... sonriendo junto a Madam Rolinda"},
+    {"say": "La fecha en el reverso es de hace 15 años"}
+  ]
+}
